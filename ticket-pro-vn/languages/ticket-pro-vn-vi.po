@@ -1,0 +1,1212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ticket Pro VN 1.9.34\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-25 10:54+0700\n"
+"PO-Revision-Date: 2026-09-25 10:55+0700\n"
+"Last-Translator: Ticket Pro VN\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ticket-pro-vn/ticket-pro-vn.php:26
+msgid "Ticket Pro VN requires PHP 5.6 or later."
+msgstr "Ticket Pro VN yêu cầu PHP 5.6 trở lên."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:30
+#: ticket-pro-vn/includes/class-tpv-admin.php:157
+msgid "Ticket Pro VN"
+msgstr "Ticket Pro VN"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:31
+msgid "Tickets"
+msgstr "Ticket"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:32
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:33
+msgid "License"
+msgstr "Bản quyền"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:64
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:66
+msgid "Open the Ticket Pro VN support center"
+msgstr "Mở trung tâm hỗ trợ Ticket Pro VN"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:71
+#: ticket-pro-vn/includes/class-tpv-front.php:97
+msgid "New ticket"
+msgstr "Tạo ticket mới"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:73
+msgid "Create a new support ticket"
+msgstr "Tạo ticket hỗ trợ mới"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:78
+#: ticket-pro-vn/includes/class-tpv-front.php:97
+#: ticket-pro-vn/includes/class-tpv-front.php:375
+msgid "My tickets"
+msgstr "Ticket của tôi"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:80
+msgid "View your support ticket list"
+msgstr "Xem danh sách ticket hỗ trợ của bạn"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:97
+#: ticket-pro-vn/includes/class-tpv-admin.php:104
+#: ticket-pro-vn/includes/class-tpv-front.php:375
+msgid "All tickets"
+msgstr "Tất cả ticket"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:100
+msgid "Support desk"
+msgstr "Bàn hỗ trợ"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:100
+msgid "Support tickets"
+msgstr "Ticket hỗ trợ"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:100
+msgid ""
+"Review customer requests, keep each conversation moving, and prioritize the "
+"work that needs attention."
+msgstr ""
+"Theo dõi yêu cầu của khách hàng, xử lý hội thoại kịp thời và ưu tiên công "
+"việc cần được chú ý."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:101
+msgid "total tickets"
+msgstr "tổng ticket"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:103
+msgid "Ticket status filters"
+msgstr "Bộ lọc trạng thái ticket"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:110
+#, php-format
+msgid "%d ticket"
+msgid_plural "%d tickets"
+msgstr[0] "%d ticket"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:110
+msgid "Select a ticket code to open its full conversation."
+msgstr "Chọn mã ticket để mở toàn bộ nội dung trao đổi."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+msgid "Code"
+msgstr "Mã"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+msgid "Customer"
+msgstr "Khách hàng"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+#: ticket-pro-vn/includes/class-tpv-front.php:45
+msgid "Subject"
+msgstr "Chủ đề"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+msgid "Assigned to"
+msgstr "Người xử lý"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+#: ticket-pro-vn/includes/class-tpv-front.php:44
+msgid "Support topic"
+msgstr "Loại hỗ trợ"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+#: ticket-pro-vn/includes/class-tpv-front.php:44
+msgid "Priority"
+msgstr "Mức độ ưu tiên"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+#: ticket-pro-vn/includes/class-tpv-admin.php:251
+msgid "Status"
+msgstr "Trạng thái"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+msgid "Updated"
+msgstr "Cập nhật"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+#: ticket-pro-vn/includes/class-tpv-front.php:385
+#: ticket-pro-vn/includes/class-tpv-front.php:411
+msgid "Deleted user"
+msgstr "Người dùng đã xóa"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+#: ticket-pro-vn/includes/class-tpv-admin.php:141
+msgid "Unassigned"
+msgstr "Chưa gán"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:115
+msgid "No tickets found."
+msgstr "Không tìm thấy ticket nào."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:115
+msgid "Tickets matching this status will appear here."
+msgstr "Các ticket có trạng thái này sẽ hiển thị tại đây."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:136
+#: ticket-pro-vn/includes/class-tpv-admin.php:342
+#: ticket-pro-vn/includes/class-tpv-front.php:150
+#: ticket-pro-vn/includes/class-tpv-front.php:370
+msgid "Ticket not found."
+msgstr "Không tìm thấy ticket."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:138
+msgid "Customer IP"
+msgstr "IP khách hàng"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:138
+msgid "Unavailable"
+msgstr "Không khả dụng"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:139
+msgid "Block IP"
+msgstr "Chặn IP"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:141
+msgid "Assigned support agent"
+msgstr "Nhân viên hỗ trợ được gán"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:143
+msgid "Assign"
+msgstr "Gán"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:145
+msgid "Update status"
+msgstr "Cập nhật trạng thái"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:158
+msgid "Ticket Pro VN settings"
+msgstr "Cài đặt Ticket Pro VN"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:159
+msgid ""
+"Configure safe customer attachments, message limits, and moderation rules."
+msgstr ""
+"Thiết lập tệp đính kèm an toàn, giới hạn nội dung và quy tắc kiểm duyệt."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:167
+msgid "Message rules"
+msgstr "Quy định nội dung"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:167
+msgid ""
+"Set enough room for customers to describe their issue without accepting "
+"excessive input."
+msgstr "Đặt giới hạn đủ để khách mô tả vấn đề mà không nhận nội dung quá dài."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:169
+msgid "Subject limit"
+msgstr "Giới hạn tiêu đề"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:169
+#: ticket-pro-vn/includes/class-tpv-admin.php:170
+msgid "characters"
+msgstr "ký tự"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:170
+msgid "Message limit"
+msgstr "Giới hạn nội dung"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:175
+msgid "Login routing"
+msgstr "Điều hướng đăng nhập"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:175
+msgid ""
+"Choose where customers should sign in. Leave this blank to detect "
+"WooCommerce My Account or use the WordPress login page automatically."
+msgstr ""
+"Chọn nơi khách hàng đăng nhập. Để trống để tự nhận diện Tài khoản của tôi "
+"của WooCommerce hoặc tự dùng trang đăng nhập WordPress."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:176
+msgid "Login path"
+msgstr "Đường dẫn đăng nhập"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:176
+msgid "Leave blank for automatic detection"
+msgstr "Để trống để tự động nhận diện"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:176
+msgid "Only enter the part after your domain, for example: dangnhap-ticket."
+msgstr "Chỉ nhập phần sau tên miền, ví dụ: dangnhap-ticket."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:176
+msgid "After login, customers return to the Ticket page they opened."
+msgstr "Sau khi đăng nhập, khách hàng sẽ quay lại đúng trang Ticket đang mở."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:180
+#: ticket-pro-vn/includes/class-tpv-front.php:49
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Attachments"
+msgstr "Tệp đính kèm"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:180
+msgid ""
+"Choose only the file categories your support team needs. Image uploads are "
+"optimized as WebP before storage."
+msgstr ""
+"Chỉ chọn những nhóm tệp đội ngũ hỗ trợ cần dùng. Ảnh tải lên sẽ được tối ưu "
+"thành WebP trước khi lưu."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:181
+msgid "Enable attachments"
+msgstr "Bật tệp đính kèm"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:181
+msgid "Allow customers and support staff to attach files to a ticket."
+msgstr "Cho phép khách hàng và nhân viên hỗ trợ đính kèm tệp trong ticket."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:184
+msgid "Maximum files"
+msgstr "Số tệp tối đa"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:184
+msgid "files per message"
+msgstr "tệp cho mỗi tin nhắn"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:185
+msgid "Maximum size"
+msgstr "Dung lượng tối đa"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:185
+msgid "MB per file"
+msgstr "MB cho mỗi tệp"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:187
+msgid ""
+"Default: up to 3 files, 5 MB each. This is a maximum of 15 MB of original "
+"upload data per message."
+msgstr ""
+"Mặc định: tối đa 3 tệp, 5 MB cho mỗi tệp. Tổng dữ liệu tải lên gốc tối đa là "
+"15 MB cho mỗi tin nhắn."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:188
+msgid "Allowed file types"
+msgstr "Loại tệp cho phép"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:188
+msgid ""
+"Select one or more common categories. Macro-enabled Office files are always "
+"blocked."
+msgstr ""
+"Chọn một hoặc nhiều nhóm tệp thông dụng. Các tệp Office có macro luôn bị "
+"chặn."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:193
+msgid "Blocked words and phrases"
+msgstr "Từ và cụm từ bị chặn"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:193
+msgid ""
+"Messages containing these terms cannot be submitted. The customer is not "
+"shown which term matched."
+msgstr ""
+"Tin nhắn chứa các từ này sẽ không thể gửi. Khách hàng sẽ không biết từ nào "
+"đã khớp."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:194
+msgid "Blocked list"
+msgstr "Danh sách bị chặn"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:194
+msgid "Example: spam, promotional link, inappropriate phrase"
+msgstr "Ví dụ: spam, liên kết quảng cáo, cụm từ không phù hợp"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:195
+msgid ""
+"Enter words or phrases separated by commas or new lines. Saving an empty "
+"field clears the list."
+msgstr ""
+"Nhập từ hoặc cụm từ, cách nhau bằng dấu phẩy hoặc xuống dòng. Lưu trường "
+"trống sẽ xóa danh sách."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:199
+msgid "Data retention"
+msgstr "Thời gian lưu dữ liệu"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:199
+msgid ""
+"Set the retention period used when scheduled cleanup removes stored IP and "
+"audit information."
+msgstr ""
+"Đặt thời gian lưu trước khi tác vụ dọn dẹp tự động xóa thông tin IP và nhật "
+"ký."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:201
+msgid "IP retention"
+msgstr "Thời gian lưu IP"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:201
+#: ticket-pro-vn/includes/class-tpv-admin.php:202
+msgid "days"
+msgstr "ngày"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:202
+msgid "Audit-log retention"
+msgstr "Thời gian lưu nhật ký"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:206
+msgid "Save settings"
+msgstr "Lưu cài đặt"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:209
+msgid "Danger zone"
+msgstr "Vùng nguy hiểm"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:209
+msgid ""
+"Permanently delete all Ticket Pro VN data before removing the plugin. This "
+"cannot be undone."
+msgstr ""
+"Xóa vĩnh viễn toàn bộ dữ liệu Ticket Pro VN trước khi gỡ plugin. Thao tác "
+"này không thể hoàn tác."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:210
+msgid "Delete all Ticket Pro VN data"
+msgstr "Xóa toàn bộ dữ liệu Ticket Pro VN"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:215
+msgid "Close"
+msgstr "Đóng"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:216
+msgid "Delete all Ticket Pro VN data?"
+msgstr "Xóa toàn bộ dữ liệu Ticket Pro VN?"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:216
+msgid ""
+"This permanently deletes ticket history, messages, private attachments, "
+"Ticket Pro VN database tables, settings, license data, and ticket-access "
+"metadata."
+msgstr ""
+"Thao tác này xóa vĩnh viễn lịch sử ticket, tin nhắn, tệp đính kèm riêng tư, "
+"bảng dữ liệu Ticket Pro VN, cài đặt, dữ liệu bản quyền và metadata quyền "
+"ticket."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:216
+msgid "WordPress user accounts and pages are not deleted."
+msgstr "Tài khoản và các trang WordPress sẽ không bị xóa."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:220
+msgid "Type DELETE to confirm"
+msgstr "Nhập DELETE để xác nhận"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:221
+msgid "Cancel"
+msgstr "Hủy"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:221
+msgid "Delete permanently"
+msgstr "Xóa vĩnh viễn"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:234
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d ngày"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:234
+#: ticket-pro-vn/includes/class-tpv-admin.php:236
+msgid "Perpetual"
+msgstr "Vĩnh viễn"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:235
+msgid "Not activated yet"
+msgstr "Chưa kích hoạt"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:236
+msgid "Starts on first activation"
+msgstr "Bắt đầu từ lần kích hoạt đầu tiên"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:237
+msgid "Active"
+msgstr "Đang hoạt động"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:237
+msgid "Expired"
+msgstr "Đã hết hạn"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:237
+msgid "Suspended"
+msgstr "Tạm dừng"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:237
+msgid "Revoked"
+msgstr "Đã thu hồi"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:239
+msgid "Awaiting activation"
+msgstr "Chờ kích hoạt"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:243
+msgid "Security and access"
+msgstr "Bảo mật và quyền truy cập"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:243
+msgid "Ticket Pro VN license"
+msgstr "Bản quyền Ticket Pro VN"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:243
+msgid ""
+"A license is valid only for this HTTPS root domain. www and non-www are "
+"treated as one domain."
+msgstr ""
+"Bản quyền chỉ hợp lệ cho tên miền gốc HTTPS này. www và không có www được "
+"tính là cùng một tên miền."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:250
+msgid "Current state"
+msgstr "Trạng thái hiện tại"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:250
+msgid "This signed state is confirmed by the Ticket Pro VN license service."
+msgstr ""
+"Trạng thái có chữ ký này được xác nhận bởi dịch vụ bản quyền Ticket Pro VN."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:251
+msgid "License term"
+msgstr "Thời hạn bản quyền"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:251
+msgid "Activation date"
+msgstr "Ngày kích hoạt"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:251
+msgid "Expiry date"
+msgstr "Ngày hết hạn"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:255
+msgid "License actions"
+msgstr "Thao tác bản quyền"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:255
+msgid "Activate license"
+msgstr "Kích hoạt bản quyền"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:255
+msgid ""
+"The license service and verification key are built into Ticket Pro VN and "
+"cannot be changed here."
+msgstr ""
+"Dịch vụ bản quyền và khóa xác thực đã được tích hợp trong Ticket Pro VN, "
+"không thể thay đổi tại đây."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:260
+msgid "Your current key is stored securely and is not shown here."
+msgstr "Key hiện tại được lưu bảo mật và không hiển thị tại đây."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:261
+msgid "Change license key"
+msgstr "Thay mã bản quyền"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:261
+msgid ""
+"Enter a new key only when your provider issued a replacement. Leave it empty "
+"to keep the current key."
+msgstr ""
+"Chỉ nhập key mới khi nhà cung cấp đã cấp key thay thế. Để trống để giữ key "
+"hiện tại."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:261
+#: ticket-pro-vn/includes/class-tpv-admin.php:264
+msgid "License key"
+msgstr "Mã bản quyền"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:262
+msgid "Revalidate license"
+msgstr "Xác thực lại bản quyền"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:264
+#: ticket-pro-vn/includes/class-tpv-admin.php:324
+msgid "Enter the license key provided by your provider."
+msgstr "Nhập mã bản quyền do nhà cung cấp gửi cho bạn."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:265
+msgid "Activate and validate"
+msgstr "Kích hoạt và xác thực"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:289
+msgid "Settings saved."
+msgstr "Đã lưu cài đặt."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:296
+msgid "To delete data, type DELETE exactly as shown."
+msgstr "Để xóa dữ liệu, hãy nhập chính xác DELETE như hiển thị."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:302
+#, php-format
+msgid ""
+"Ticket Pro VN data was permanently deleted: %1$d attachments and %2$d "
+"database tables removed."
+msgstr ""
+"Dữ liệu Ticket Pro VN đã được xóa vĩnh viễn: đã xóa %1$d tệp đính kèm và "
+"%2$d bảng dữ liệu."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:326
+msgid "License activated."
+msgstr "Đã kích hoạt bản quyền."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:331
+msgid "Invalid status."
+msgstr "Trạng thái không hợp lệ."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:345
+msgid "Invalid support agent."
+msgstr "Nhân viên hỗ trợ không hợp lệ."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:353
+msgid "Invalid IP."
+msgstr "Địa chỉ IP không hợp lệ."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:361
+msgid "Ticket Pro VN access"
+msgstr "Quyền Ticket Pro VN"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:361
+msgid "Enable ticket access"
+msgstr "Bật quyền ticket"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:361
+msgid ""
+"Enabled by default for registered users. Uncheck to suspend this user from "
+"creating or replying to tickets."
+msgstr ""
+"Tự bật cho người dùng đã đăng ký. Bỏ chọn để tạm ngưng quyền tạo hoặc phản "
+"hồi ticket của người dùng này."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:361
+msgid "Support access expiry"
+msgstr "Ngày hết hạn quyền hỗ trợ"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:376
+msgid "Ticket access"
+msgstr "Quyền ticket"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:377
+#, php-format
+msgid "Enabled until %s"
+msgstr "Được bật đến %s"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:377
+msgid "Enabled"
+msgstr "Đã bật"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:377
+msgid "Disabled"
+msgstr "Đã tắt"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:378
+msgid "Enable ticket access for 30 days"
+msgstr "Bật quyền ticket trong 30 ngày"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:378
+msgid "Enable ticket access for 365 days"
+msgstr "Bật quyền ticket trong 365 ngày"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:378
+msgid "Disable ticket access"
+msgstr "Tắt quyền ticket"
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:381
+#: ticket-pro-vn/includes/class-tpv-admin.php:382
+#: ticket-pro-vn/includes/class-tpv-front.php:212
+msgid "Invalid request."
+msgstr "Yêu cầu không hợp lệ."
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:389
+msgid "Dismiss notification"
+msgstr "Đóng thông báo"
+
+#: ticket-pro-vn/includes/class-tpv-db.php:143
+msgid ""
+"Ticket data could not be completely removed. Please restore from a backup "
+"and try again."
+msgstr "Không thể xóa hoàn toàn dữ liệu ticket. Hãy khôi phục từ bản sao lưu và thử lại."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:25
+#: ticket-pro-vn/includes/class-tpv-security.php:123
+msgid "Please sign in to use support tickets."
+msgstr "Vui lòng đăng nhập để sử dụng ticket hỗ trợ."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:37
+msgid "Customer support"
+msgstr "Trung tâm hỗ trợ"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:37
+msgid "How can we help?"
+msgstr "Chúng tôi có thể hỗ trợ gì cho bạn?"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:37
+msgid ""
+"Describe your request clearly. Our team will reply in the same ticket thread."
+msgstr ""
+"Hãy mô tả rõ yêu cầu của bạn. Đội ngũ hỗ trợ sẽ phản hồi ngay trong ticket "
+"này."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:38
+msgid "View my tickets"
+msgstr "Xem ticket của tôi"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:40
+msgid "Secure support"
+msgstr "Hỗ trợ bảo mật"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:40
+msgid "Replies stay in one conversation"
+msgstr "Mọi phản hồi được lưu trong một hội thoại"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:40
+#, php-format
+msgid "Access until %s"
+msgstr "Quyền hỗ trợ đến %s"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:45
+msgid "A short summary helps us triage your request."
+msgstr "Tiêu đề ngắn gọn giúp chúng tôi phân loại yêu cầu nhanh hơn."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:45
+msgid "For example: I cannot sign in to my account"
+msgstr "Ví dụ: Tôi không thể đăng nhập vào tài khoản"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:46
+msgid "Message"
+msgstr "Nội dung"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:46
+msgid ""
+"Include steps, error messages, and relevant details. Links are not accepted "
+"for security."
+msgstr ""
+"Hãy nêu các bước đã thực hiện, lỗi gặp phải và thông tin liên quan. Vì bảo "
+"mật, ticket không nhận liên kết."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:46
+msgid "Please tell us what happened and what you expected."
+msgstr "Hãy cho chúng tôi biết điều gì đã xảy ra và kết quả bạn mong muốn."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:47
+msgid "Related WordPress user"
+msgstr "Người dùng WordPress liên quan"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:47
+msgid ""
+"Optional. An administrator can add someone who should be able to view and "
+"reply to this ticket later."
+msgstr ""
+"Tùy chọn. Quản trị viên có thể thêm người được phép xem và phản hồi ticket "
+"này sau."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:47
+#: ticket-pro-vn/includes/class-tpv-front.php:431
+msgid "Username or account email"
+msgstr "Tên đăng nhập hoặc email tài khoản"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:49
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+#, php-format
+msgid "Up to %1$d files, %2$d MB each."
+msgstr "Tối đa %1$d tệp, %2$d MB cho mỗi tệp."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:49
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+#, php-format
+msgid "Allowed formats: %s."
+msgstr "Định dạng cho phép: %s."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:49
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Images are converted to optimized WebP before being stored."
+msgstr "Ảnh sẽ được chuyển sang WebP đã tối ưu trước khi lưu."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:51
+msgid ""
+"Your account information, message, attachments, and IP address are recorded "
+"to provide support."
+msgstr ""
+"Thông tin tài khoản, nội dung, tệp đính kèm và địa chỉ IP được lưu để phục "
+"vụ hỗ trợ."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:51
+msgid "Submit ticket"
+msgstr "Gửi ticket"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:62
+msgid "Please sign in to view your tickets."
+msgstr "Vui lòng đăng nhập để xem ticket của bạn."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:97
+#: ticket-pro-vn/includes/class-tpv-plugin.php:275
+msgid "Support center"
+msgstr "Trung tâm hỗ trợ"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:97
+msgid "Assigned tickets"
+msgstr "Ticket được giao cho tôi"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:97
+msgid "Review and reply to tickets assigned to you."
+msgstr "Xem và phản hồi các ticket được giao cho bạn."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:98
+msgid "Search tickets"
+msgstr "Tìm ticket"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:98
+msgid "All statuses"
+msgstr "Tất cả trạng thái"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:98
+msgid "Filter"
+msgstr "Lọc"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:99
+msgid "No tickets are assigned to you"
+msgstr "Chưa có ticket nào được giao cho bạn"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:99
+msgid "New tickets assigned to you will appear here."
+msgstr "Ticket mới được giao cho bạn sẽ hiển thị tại đây."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:99
+msgid "Create your first ticket"
+msgstr "Tạo ticket đầu tiên"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:99
+#, php-format
+msgid "Customer: %s"
+msgstr "Khách hàng: %s"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:99
+#, php-format
+msgid "Assigned to: %s"
+msgstr "Người xử lý: %s"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:110
+msgid "Your support access is blocked."
+msgstr "Quyền hỗ trợ của bạn đã bị chặn."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:111
+msgid "Please wait before submitting another ticket."
+msgstr "Vui lòng chờ trước khi gửi ticket khác."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:119
+msgid "Subject and message are required."
+msgstr "Cần nhập chủ đề và nội dung."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:121
+#: ticket-pro-vn/includes/class-tpv-front.php:185
+msgid "The related user was not found."
+msgstr "Không tìm thấy người dùng liên quan."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:122
+msgid "Choose another WordPress user as the related person."
+msgstr "Hãy chọn một người dùng WordPress khác làm người liên quan."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:123
+msgid "The related user must have a verified email address."
+msgstr "Người dùng liên quan cần có địa chỉ email đã được xác thực."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:130
+msgid "Your ticket could not be created. Please try again."
+msgstr "Không thể tạo ticket. Vui lòng thử lại."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:133
+msgid "The related user could not be added. Please try again."
+msgstr "Không thể thêm người dùng liên quan. Vui lòng thử lại."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:141
+msgid ""
+"Your ticket has been submitted, but one or more attachments were not added. "
+"Check the allowed file types and limits."
+msgstr ""
+"Ticket đã được gửi, nhưng một hoặc nhiều tệp đính kèm chưa được thêm. Hãy "
+"kiểm tra loại tệp và giới hạn cho phép."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:141
+msgid "Your ticket has been submitted."
+msgstr "Ticket của bạn đã được gửi thành công."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:155
+msgid "This ticket is closed."
+msgstr "Ticket này đã đóng."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:157
+msgid "Your reply cannot be submitted right now."
+msgstr "Hiện chưa thể gửi phản hồi của bạn."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:160
+msgid "Message is required."
+msgstr "Cần nhập nội dung."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:172
+msgid ""
+"Your reply has been submitted, but one or more attachments were not added. "
+"Check the allowed file types and limits."
+msgstr ""
+"Phản hồi đã được gửi, nhưng một hoặc nhiều tệp đính kèm chưa được thêm. Hãy "
+"kiểm tra loại tệp và giới hạn cho phép."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:172
+msgid "Your reply has been submitted."
+msgstr "Phản hồi của bạn đã được gửi."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:183
+#: ticket-pro-vn/includes/class-tpv-front.php:201
+msgid "You cannot manage participants for this ticket."
+msgstr "Bạn không thể quản lý người liên quan của ticket này."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:186
+msgid "This user already owns the ticket."
+msgstr "Người dùng này đã là chủ sở hữu ticket."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:188
+msgid "This user is already related to the ticket."
+msgstr "Người dùng này đã được thêm vào ticket."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:190
+msgid "You were added as a related person on this ticket."
+msgstr "Bạn đã được thêm làm người liên quan của ticket này."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:191
+msgid "The related user was added to this ticket."
+msgstr "Đã thêm người dùng liên quan vào ticket này."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:203
+msgid "Related user not found."
+msgstr "Không tìm thấy người dùng liên quan."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:205
+#: ticket-pro-vn/includes/class-tpv-front.php:426
+msgid "Each ticket must keep at least one related user."
+msgstr "Mỗi ticket phải luôn có ít nhất một người dùng liên quan."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:208
+msgid "The related user was removed from this ticket."
+msgstr "Đã xóa người dùng liên quan khỏi ticket này."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:375
+#, php-format
+msgid "Updated %s"
+msgstr "Cập nhật %s"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:377
+msgid "Conversation"
+msgstr "Nội dung trao đổi"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:380
+msgid "Support team"
+msgstr "Đội ngũ hỗ trợ"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:381
+msgid "You"
+msgstr "Bạn"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:382
+msgid "Ticket owner"
+msgstr "Người tạo ticket"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:383
+msgid "Related person"
+msgstr "Người liên quan"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:384
+msgid "Verified support staff"
+msgstr "Nhân viên hỗ trợ đã xác thực"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:393
+msgid "View image"
+msgstr "Xem ảnh"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:394
+msgid "Download"
+msgstr "Tải xuống"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Continue this ticket"
+msgstr "Tiếp tục ticket này"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Write a reply"
+msgstr "Viết phản hồi"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Reply"
+msgstr "Phản hồi"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Add any details that will help us resolve this request."
+msgstr "Bổ sung thông tin giúp chúng tôi xử lý yêu cầu nhanh hơn."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Send reply"
+msgstr "Gửi phản hồi"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:411
+msgid "People involved"
+msgstr "Những người liên quan"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:411
+msgid "Ticket participants"
+msgstr "Thành viên ticket"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:411
+msgid "Owner:"
+msgstr "Người tạo:"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:412
+msgid "Support agent:"
+msgstr "Nhân viên hỗ trợ:"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:420
+msgid "Remove"
+msgstr "Xóa"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:431
+msgid "Add related WordPress user"
+msgstr "Thêm người dùng WordPress liên quan"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:431
+msgid "Add user"
+msgstr "Thêm người dùng"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:447
+msgid "Choose files"
+msgstr "Chọn tệp"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:448
+msgid "No files selected"
+msgstr "Chưa chọn tệp nào"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:448
+msgid "1 file selected"
+msgstr "Đã chọn 1 tệp"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:448
+#, php-format
+msgid "%d files selected"
+msgstr "Đã chọn %d tệp"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:461
+msgid "Log out"
+msgstr "Đăng xuất"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:467
+msgid "Log in"
+msgstr "Đăng nhập"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:469
+#: ticket-pro-vn/includes/class-tpv-plugin.php:279
+msgid "Create an account"
+msgstr "Tạo tài khoản"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:471
+msgid ""
+"New here? Create an account first, then sign in to submit and track tickets."
+msgstr ""
+"Lần đầu sử dụng? Hãy tạo tài khoản, sau đó đăng nhập để gửi và theo dõi "
+"ticket."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:477
+msgid "Invalid download request."
+msgstr "Yêu cầu tải xuống không hợp lệ."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:481
+msgid "You cannot download this file."
+msgstr "Bạn không thể tải xuống tệp này."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:483
+msgid "File not found."
+msgstr "Không tìm thấy tệp."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:491
+msgid ""
+"A new ticket has been created. View it in the WordPress administration area."
+msgstr "Một ticket mới đã được tạo. Hãy xem trong khu vực quản trị WordPress."
+
+#: ticket-pro-vn/includes/class-tpv-front.php:511
+#, php-format
+msgid "[%s] Support replied"
+msgstr "[%s] Hỗ trợ đã phản hồi"
+
+#: ticket-pro-vn/includes/class-tpv-front.php:511
+#, php-format
+msgid "[%s] Ticket updated"
+msgstr "[%s] Ticket đã được cập nhật"
+
+#: ticket-pro-vn/includes/class-tpv-license.php:21
+msgid "Ticket Pro VN requires HTTPS."
+msgstr "Ticket Pro VN yêu cầu HTTPS."
+
+#: ticket-pro-vn/includes/class-tpv-license.php:25
+msgid "A public HTTPS domain is required."
+msgstr "Cần có tên miền HTTPS công khai."
+
+#: ticket-pro-vn/includes/class-tpv-license.php:46
+msgid "This site has no valid Ticket Pro VN license."
+msgstr "Website này không có bản quyền Ticket Pro VN hợp lệ."
+
+#: ticket-pro-vn/includes/class-tpv-license.php:51
+msgid ""
+"This Ticket Pro VN license has expired. Renew it, then validate this site "
+"again."
+msgstr ""
+"Bản quyền Ticket Pro VN này đã hết hạn. Hãy gia hạn rồi xác thực lại website "
+"này."
+
+#: ticket-pro-vn/includes/class-tpv-license.php:55
+msgid "The Ticket Pro VN license is inactive."
+msgstr "Bản quyền Ticket Pro VN chưa hoạt động."
+
+#: ticket-pro-vn/includes/class-tpv-license.php:59
+msgid "License validation is overdue. Please reconnect this site."
+msgstr "Đã quá hạn xác thực bản quyền. Vui lòng kết nối lại website này."
+
+#: ticket-pro-vn/includes/class-tpv-license.php:83
+msgid "The built-in license service is unavailable."
+msgstr "Dịch vụ bản quyền tích hợp hiện không khả dụng."
+
+#: ticket-pro-vn/includes/class-tpv-license.php:99
+msgid "The license key was not found or has been replaced."
+msgstr "Không tìm thấy mã bản quyền hoặc mã đã được thay thế."
+
+#: ticket-pro-vn/includes/class-tpv-license.php:100
+msgid "This license is already linked to another website or installation."
+msgstr "Bản quyền này đã liên kết với website hoặc bản cài đặt khác."
+
+#: ticket-pro-vn/includes/class-tpv-license.php:101
+msgid "The license activation request is incomplete."
+msgstr "Yêu cầu kích hoạt bản quyền chưa đầy đủ."
+
+#: ticket-pro-vn/includes/class-tpv-license.php:103
+msgid "The license service could not process this request."
+msgstr "Dịch vụ bản quyền không thể xử lý yêu cầu này."
+
+#: ticket-pro-vn/includes/class-tpv-license.php:107
+msgid "The license server returned an invalid response."
+msgstr "Máy chủ bản quyền trả về phản hồi không hợp lệ."
+
+#: ticket-pro-vn/includes/class-tpv-license.php:111
+msgid "The license response signature is invalid."
+msgstr "Chữ ký phản hồi bản quyền không hợp lệ."
+
+#: ticket-pro-vn/includes/class-tpv-license.php:115
+msgid "The license does not match this domain."
+msgstr "Bản quyền không khớp với tên miền này."
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:275
+msgid "Sign in to continue"
+msgstr "Đăng nhập để tiếp tục"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:275
+msgid "Sign in to access your support tickets."
+msgstr "Đăng nhập để truy cập các ticket hỗ trợ của bạn."
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:279
+msgid "Do not have an account yet?"
+msgstr "Chưa có tài khoản?"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:403
+msgid "Submit a ticket"
+msgstr "Gửi ticket"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:404
+msgid "My support tickets"
+msgstr "Hỗ trợ của tôi"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:426
+msgid "Support Agent"
+msgstr "Nhân viên hỗ trợ"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:481
+msgid "Open"
+msgstr "Mở"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:481
+msgid "Answered"
+msgstr "Đã trả lời"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:481
+msgid "Waiting for customer"
+msgstr "Chờ khách"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:481
+msgid "Closed"
+msgstr "Đã đóng"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:487
+msgid "Technical issue"
+msgstr "Vấn đề kỹ thuật"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:488
+msgid "Account and login"
+msgstr "Tài khoản và đăng nhập"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:489
+msgid "Payment"
+msgstr "Thanh toán"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:490
+msgid "General consultation"
+msgstr "Tư vấn chung"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:496
+msgid "Normal"
+msgstr "Bình thường"
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:497
+msgid "High"
+msgstr "Ưu tiên cao"
+
+#: ticket-pro-vn/includes/class-tpv-security.php:59
+msgid "Links are not allowed in tickets."
+msgstr "Không cho phép liên kết trong ticket."
+
+#: ticket-pro-vn/includes/class-tpv-security.php:62
+msgid "Your message cannot be submitted."
+msgstr "Không thể gửi nội dung của bạn."
+
+#: ticket-pro-vn/includes/class-tpv-security.php:65
+msgid "Your message is too long."
+msgstr "Nội dung của bạn quá dài."
+
+#: ticket-pro-vn/includes/class-tpv-security.php:68
+msgid "Your subject is too long."
+msgstr "Chủ đề của bạn quá dài."
+
+#: ticket-pro-vn/includes/class-tpv-security.php:110
+msgid "You cannot reply to this ticket."
+msgstr "Bạn không thể phản hồi ticket này."
+
+#: ticket-pro-vn/includes/class-tpv-security.php:115
+#: ticket-pro-vn/includes/class-tpv-security.php:131
+msgid "Please verify your email address before using support."
+msgstr "Vui lòng xác thực địa chỉ email trước khi sử dụng hỗ trợ."
+
+#: ticket-pro-vn/includes/class-tpv-security.php:135
+msgid "Support access is not enabled for your account."
+msgstr "Tài khoản của bạn chưa được bật quyền hỗ trợ."
+
+#: ticket-pro-vn/includes/class-tpv-security.php:139
+msgid "Your support access has expired."
+msgstr "Quyền hỗ trợ của bạn đã hết hạn."

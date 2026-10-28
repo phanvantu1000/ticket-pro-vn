@@ -1,0 +1,1171 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Ticket Pro VN
+# This file is distributed under the same license as the Ticket Pro VN package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ticket Pro VN 1.9.34\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-25 10:54+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ticket-pro-vn/ticket-pro-vn.php:26
+msgid "Ticket Pro VN requires PHP 5.6 or later."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:30
+#: ticket-pro-vn/includes/class-tpv-admin.php:157
+msgid "Ticket Pro VN"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:31
+msgid "Tickets"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:32
+msgid "Settings"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:33
+msgid "License"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:64
+msgid "Support"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:66
+msgid "Open the Ticket Pro VN support center"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:71
+#: ticket-pro-vn/includes/class-tpv-front.php:97
+msgid "New ticket"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:73
+msgid "Create a new support ticket"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:78
+#: ticket-pro-vn/includes/class-tpv-front.php:97
+#: ticket-pro-vn/includes/class-tpv-front.php:375
+msgid "My tickets"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:80
+msgid "View your support ticket list"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:97
+#: ticket-pro-vn/includes/class-tpv-admin.php:104
+#: ticket-pro-vn/includes/class-tpv-front.php:375
+msgid "All tickets"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:100
+msgid "Support desk"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:100
+msgid "Support tickets"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:100
+msgid ""
+"Review customer requests, keep each conversation moving, and prioritize the "
+"work that needs attention."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:101
+msgid "total tickets"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:103
+msgid "Ticket status filters"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:110
+#, php-format
+msgid "%d ticket"
+msgid_plural "%d tickets"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:110
+msgid "Select a ticket code to open its full conversation."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+msgid "Code"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+msgid "Customer"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+#: ticket-pro-vn/includes/class-tpv-front.php:45
+msgid "Subject"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+msgid "Assigned to"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+#: ticket-pro-vn/includes/class-tpv-front.php:44
+msgid "Support topic"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+#: ticket-pro-vn/includes/class-tpv-front.php:44
+msgid "Priority"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+#: ticket-pro-vn/includes/class-tpv-admin.php:251
+msgid "Status"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:111
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+msgid "Updated"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+#: ticket-pro-vn/includes/class-tpv-front.php:385
+#: ticket-pro-vn/includes/class-tpv-front.php:411
+msgid "Deleted user"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:113
+#: ticket-pro-vn/includes/class-tpv-admin.php:141
+msgid "Unassigned"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:115
+msgid "No tickets found."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:115
+msgid "Tickets matching this status will appear here."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:136
+#: ticket-pro-vn/includes/class-tpv-admin.php:342
+#: ticket-pro-vn/includes/class-tpv-front.php:150
+#: ticket-pro-vn/includes/class-tpv-front.php:370
+msgid "Ticket not found."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:138
+msgid "Customer IP"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:138
+msgid "Unavailable"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:139
+msgid "Block IP"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:141
+msgid "Assigned support agent"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:143
+msgid "Assign"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:145
+msgid "Update status"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:158
+msgid "Ticket Pro VN settings"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:159
+msgid ""
+"Configure safe customer attachments, message limits, and moderation rules."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:167
+msgid "Message rules"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:167
+msgid ""
+"Set enough room for customers to describe their issue without accepting "
+"excessive input."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:169
+msgid "Subject limit"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:169
+#: ticket-pro-vn/includes/class-tpv-admin.php:170
+msgid "characters"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:170
+msgid "Message limit"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:175
+msgid "Login routing"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:175
+msgid ""
+"Choose where customers should sign in. Leave this blank to detect "
+"WooCommerce My Account or use the WordPress login page automatically."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:176
+msgid "Login path"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:176
+msgid "Leave blank for automatic detection"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:176
+msgid "Only enter the part after your domain, for example: dangnhap-ticket."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:176
+msgid "After login, customers return to the Ticket page they opened."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:180
+#: ticket-pro-vn/includes/class-tpv-front.php:49
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Attachments"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:180
+msgid ""
+"Choose only the file categories your support team needs. Image uploads are "
+"optimized as WebP before storage."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:181
+msgid "Enable attachments"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:181
+msgid "Allow customers and support staff to attach files to a ticket."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:184
+msgid "Maximum files"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:184
+msgid "files per message"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:185
+msgid "Maximum size"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:185
+msgid "MB per file"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:187
+msgid ""
+"Default: up to 3 files, 5 MB each. This is a maximum of 15 MB of original "
+"upload data per message."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:188
+msgid "Allowed file types"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:188
+msgid ""
+"Select one or more common categories. Macro-enabled Office files are always "
+"blocked."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:193
+msgid "Blocked words and phrases"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:193
+msgid ""
+"Messages containing these terms cannot be submitted. The customer is not "
+"shown which term matched."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:194
+msgid "Blocked list"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:194
+msgid "Example: spam, promotional link, inappropriate phrase"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:195
+msgid ""
+"Enter words or phrases separated by commas or new lines. Saving an empty "
+"field clears the list."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:199
+msgid "Data retention"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:199
+msgid ""
+"Set the retention period used when scheduled cleanup removes stored IP and "
+"audit information."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:201
+msgid "IP retention"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:201
+#: ticket-pro-vn/includes/class-tpv-admin.php:202
+msgid "days"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:202
+msgid "Audit-log retention"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:206
+msgid "Save settings"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:209
+msgid "Danger zone"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:209
+msgid ""
+"Permanently delete all Ticket Pro VN data before removing the plugin. This "
+"cannot be undone."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:210
+msgid "Delete all Ticket Pro VN data"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:215
+msgid "Close"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:216
+msgid "Delete all Ticket Pro VN data?"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:216
+msgid ""
+"This permanently deletes ticket history, messages, private attachments, "
+"Ticket Pro VN database tables, settings, license data, and ticket-access "
+"metadata."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:216
+msgid "WordPress user accounts and pages are not deleted."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:220
+msgid "Type DELETE to confirm"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:221
+msgid "Cancel"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:221
+msgid "Delete permanently"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:234
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:234
+#: ticket-pro-vn/includes/class-tpv-admin.php:236
+msgid "Perpetual"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:235
+msgid "Not activated yet"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:236
+msgid "Starts on first activation"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:237
+msgid "Active"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:237
+msgid "Expired"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:237
+msgid "Suspended"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:237
+msgid "Revoked"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:239
+msgid "Awaiting activation"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:243
+msgid "Security and access"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:243
+msgid "Ticket Pro VN license"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:243
+msgid ""
+"A license is valid only for this HTTPS root domain. www and non-www are "
+"treated as one domain."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:250
+msgid "Current state"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:250
+msgid "This signed state is confirmed by the Ticket Pro VN license service."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:251
+msgid "License term"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:251
+msgid "Activation date"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:251
+msgid "Expiry date"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:255
+msgid "License actions"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:255
+msgid "Activate license"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:255
+msgid ""
+"The license service and verification key are built into Ticket Pro VN and "
+"cannot be changed here."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:260
+msgid "Your current key is stored securely and is not shown here."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:261
+msgid "Change license key"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:261
+msgid ""
+"Enter a new key only when your provider issued a replacement. Leave it empty "
+"to keep the current key."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:261
+#: ticket-pro-vn/includes/class-tpv-admin.php:264
+msgid "License key"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:262
+msgid "Revalidate license"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:264
+#: ticket-pro-vn/includes/class-tpv-admin.php:324
+msgid "Enter the license key provided by your provider."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:265
+msgid "Activate and validate"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:289
+msgid "Settings saved."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:296
+msgid "To delete data, type DELETE exactly as shown."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:302
+#, php-format
+msgid ""
+"Ticket Pro VN data was permanently deleted: %1$d attachments and %2$d "
+"database tables removed."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:326
+msgid "License activated."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:331
+msgid "Invalid status."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:345
+msgid "Invalid support agent."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:353
+msgid "Invalid IP."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:361
+msgid "Ticket Pro VN access"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:361
+msgid "Enable ticket access"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:361
+msgid ""
+"Enabled by default for registered users. Uncheck to suspend this user from "
+"creating or replying to tickets."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:361
+msgid "Support access expiry"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:376
+msgid "Ticket access"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:377
+#, php-format
+msgid "Enabled until %s"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:377
+msgid "Enabled"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:377
+msgid "Disabled"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:378
+msgid "Enable ticket access for 30 days"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:378
+msgid "Enable ticket access for 365 days"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:378
+msgid "Disable ticket access"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:381
+#: ticket-pro-vn/includes/class-tpv-admin.php:382
+#: ticket-pro-vn/includes/class-tpv-front.php:212
+msgid "Invalid request."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-admin.php:389
+msgid "Dismiss notification"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-db.php:143
+msgid ""
+"Ticket data could not be completely removed. Please restore from a backup "
+"and try again."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:25
+#: ticket-pro-vn/includes/class-tpv-security.php:123
+msgid "Please sign in to use support tickets."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:37
+msgid "Customer support"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:37
+msgid "How can we help?"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:37
+msgid ""
+"Describe your request clearly. Our team will reply in the same ticket thread."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:38
+msgid "View my tickets"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:40
+msgid "Secure support"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:40
+msgid "Replies stay in one conversation"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:40
+#, php-format
+msgid "Access until %s"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:45
+msgid "A short summary helps us triage your request."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:45
+msgid "For example: I cannot sign in to my account"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:46
+msgid "Message"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:46
+msgid ""
+"Include steps, error messages, and relevant details. Links are not accepted "
+"for security."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:46
+msgid "Please tell us what happened and what you expected."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:47
+msgid "Related WordPress user"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:47
+msgid ""
+"Optional. An administrator can add someone who should be able to view and "
+"reply to this ticket later."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:47
+#: ticket-pro-vn/includes/class-tpv-front.php:431
+msgid "Username or account email"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:49
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+#, php-format
+msgid "Up to %1$d files, %2$d MB each."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:49
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+#, php-format
+msgid "Allowed formats: %s."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:49
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Images are converted to optimized WebP before being stored."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:51
+msgid ""
+"Your account information, message, attachments, and IP address are recorded "
+"to provide support."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:51
+msgid "Submit ticket"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:62
+msgid "Please sign in to view your tickets."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:97
+#: ticket-pro-vn/includes/class-tpv-plugin.php:275
+msgid "Support center"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:97
+msgid "Assigned tickets"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:97
+msgid "Review and reply to tickets assigned to you."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:98
+msgid "Search tickets"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:98
+msgid "All statuses"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:98
+msgid "Filter"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:99
+msgid "No tickets are assigned to you"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:99
+msgid "New tickets assigned to you will appear here."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:99
+msgid "Create your first ticket"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:99
+#, php-format
+msgid "Customer: %s"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:99
+#, php-format
+msgid "Assigned to: %s"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:110
+msgid "Your support access is blocked."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:111
+msgid "Please wait before submitting another ticket."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:119
+msgid "Subject and message are required."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:121
+#: ticket-pro-vn/includes/class-tpv-front.php:185
+msgid "The related user was not found."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:122
+msgid "Choose another WordPress user as the related person."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:123
+msgid "The related user must have a verified email address."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:130
+msgid "Your ticket could not be created. Please try again."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:133
+msgid "The related user could not be added. Please try again."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:141
+msgid ""
+"Your ticket has been submitted, but one or more attachments were not added. "
+"Check the allowed file types and limits."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:141
+msgid "Your ticket has been submitted."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:155
+msgid "This ticket is closed."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:157
+msgid "Your reply cannot be submitted right now."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:160
+msgid "Message is required."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:172
+msgid ""
+"Your reply has been submitted, but one or more attachments were not added. "
+"Check the allowed file types and limits."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:172
+msgid "Your reply has been submitted."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:183
+#: ticket-pro-vn/includes/class-tpv-front.php:201
+msgid "You cannot manage participants for this ticket."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:186
+msgid "This user already owns the ticket."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:188
+msgid "This user is already related to the ticket."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:190
+msgid "You were added as a related person on this ticket."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:191
+msgid "The related user was added to this ticket."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:203
+msgid "Related user not found."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:205
+#: ticket-pro-vn/includes/class-tpv-front.php:426
+msgid "Each ticket must keep at least one related user."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:208
+msgid "The related user was removed from this ticket."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:375
+#, php-format
+msgid "Updated %s"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:377
+msgid "Conversation"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:380
+msgid "Support team"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:381
+msgid "You"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:382
+msgid "Ticket owner"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:383
+msgid "Related person"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:384
+msgid "Verified support staff"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:393
+msgid "View image"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:394
+msgid "Download"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Continue this ticket"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Write a reply"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Reply"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Add any details that will help us resolve this request."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:402
+msgid "Send reply"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:411
+msgid "People involved"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:411
+msgid "Ticket participants"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:411
+msgid "Owner:"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:412
+msgid "Support agent:"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:420
+msgid "Remove"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:431
+msgid "Add related WordPress user"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:431
+msgid "Add user"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:447
+msgid "Choose files"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:448
+msgid "No files selected"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:448
+msgid "1 file selected"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:448
+#, php-format
+msgid "%d files selected"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:461
+msgid "Log out"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:467
+msgid "Log in"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:469
+#: ticket-pro-vn/includes/class-tpv-plugin.php:279
+msgid "Create an account"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:471
+msgid ""
+"New here? Create an account first, then sign in to submit and track tickets."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:477
+msgid "Invalid download request."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:481
+msgid "You cannot download this file."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:483
+msgid "File not found."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:491
+msgid ""
+"A new ticket has been created. View it in the WordPress administration area."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:511
+#, php-format
+msgid "[%s] Support replied"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-front.php:511
+#, php-format
+msgid "[%s] Ticket updated"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:21
+msgid "Ticket Pro VN requires HTTPS."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:25
+msgid "A public HTTPS domain is required."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:46
+msgid "This site has no valid Ticket Pro VN license."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:51
+msgid ""
+"This Ticket Pro VN license has expired. Renew it, then validate this site "
+"again."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:55
+msgid "The Ticket Pro VN license is inactive."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:59
+msgid "License validation is overdue. Please reconnect this site."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:83
+msgid "The built-in license service is unavailable."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:99
+msgid "The license key was not found or has been replaced."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:100
+msgid "This license is already linked to another website or installation."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:101
+msgid "The license activation request is incomplete."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:103
+msgid "The license service could not process this request."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:107
+msgid "The license server returned an invalid response."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:111
+msgid "The license response signature is invalid."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-license.php:115
+msgid "The license does not match this domain."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:275
+msgid "Sign in to continue"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:275
+msgid "Sign in to access your support tickets."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:279
+msgid "Do not have an account yet?"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:403
+msgid "Submit a ticket"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:404
+msgid "My support tickets"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:426
+msgid "Support Agent"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:481
+msgid "Open"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:481
+msgid "Answered"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:481
+msgid "Waiting for customer"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:481
+msgid "Closed"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:487
+msgid "Technical issue"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:488
+msgid "Account and login"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:489
+msgid "Payment"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:490
+msgid "General consultation"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:496
+msgid "Normal"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-plugin.php:497
+msgid "High"
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-security.php:59
+msgid "Links are not allowed in tickets."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-security.php:62
+msgid "Your message cannot be submitted."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-security.php:65
+msgid "Your message is too long."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-security.php:68
+msgid "Your subject is too long."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-security.php:110
+msgid "You cannot reply to this ticket."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-security.php:115
+#: ticket-pro-vn/includes/class-tpv-security.php:131
+msgid "Please verify your email address before using support."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-security.php:135
+msgid "Support access is not enabled for your account."
+msgstr ""
+
+#: ticket-pro-vn/includes/class-tpv-security.php:139
+msgid "Your support access has expired."
+msgstr ""

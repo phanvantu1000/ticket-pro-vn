@@ -1,0 +1,29 @@
+# Hệ điều hành & IDE
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts & file nén
+*.zip
+*.tar.gz
+dist/
+dist-wp-org/
+.svn-repo/
+
+# License Server bí mật & dữ liệu động
+license-server/config.php
+license-server/storage/*
+!license-server/storage/.gitkeep
+
+# File tạm & logs
+*.log
+scratch/
