@@ -27,3 +27,5 @@ license-server/storage/*
 # File tạm & logs
 *.log
 scratch/
+
+license-server/
